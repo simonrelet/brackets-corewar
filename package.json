@@ -1,0 +1,14 @@
+{
+  "name": "simonrelet.corewar",
+  "title": "Corewar",
+  "description": "Adds Corewar validation support to Brackets.",
+  "homepage": "https://github.com/simonrelet/brackets-corewar",
+  "keywords": ["corewar", "lint", "linting", "linter"],
+  "categories": "linting",
+  "version": "2.2.2",
+  "author": "Simon Relet <simonrelet@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.38.0"
+  }
+}
